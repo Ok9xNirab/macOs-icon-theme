@@ -1,12 +1,12 @@
 # MacOs Icon Theme
 An icon pack for Gnome
 
-
 ![First Screenshot](https://raw.githubusercontent.com/IANirab/macOs-icon-theme/master/screenshots/screenshot1.png)
 
 
 ![Second Screenshot](https://raw.githubusercontent.com/IANirab/macOs-icon-theme/master/screenshots/screenshot2.png)
 
+![Third Screenshot](https://raw.githubusercontent.com/IANirab/macOs-icon-theme/master/screenshots/screenshot3.png)
 
 ## How to install:
 
