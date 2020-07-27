@@ -12,7 +12,7 @@ An icon pack for Gnome
 
 Download:
 
-     $ git clone https://github.com/IANirab/macOs-icon-theme ~/.icons/La-Sierra
+     $ git clone https://github.com/ok9xnirab/macOs-icon-theme ~/.icons/La-Sierra
 
 
 **Go to Your Gnome Tweak Tool & set it !!**
